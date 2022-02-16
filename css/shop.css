@@ -1,0 +1,63 @@
+.search{
+    width: 97%;
+    border: 1px solid #aaa;
+    padding: 20px;
+    text-align: center;
+    border-radius: 0px 0px 30px 30px;
+}
+
+.type{
+    max-width: 1200px;
+    margin-top: 20px;
+    text-align: center;
+    display: flex;
+    
+}
+
+.box{
+    width: 30%;
+    overflow: hidden;
+}
+
+.type .card{
+    margin: auto;
+}
+
+.type .card img{
+    width: 450px;
+}
+
+.featured_card{
+    display: flex;
+    
+}
+
+.featured .card{
+    width: 30%;
+    margin: 5px;
+}
+
+.attraction_card{
+    display: flex;
+    
+}
+
+.attraction .card{
+    margin: 5px;
+}
+
+.hotel_card{
+    display: flex;
+}
+
+.hotel .card{
+    margin: 5px;
+}
+
+.restaurant_card{
+    display: flex;
+}
+
+.restaurant .card{
+    margin: 5px;
+}
